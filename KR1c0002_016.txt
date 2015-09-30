@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 15
+#+DATE: 2015-09-10 22:47:15.717348
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB01n0020-016毛詩-卷第十六.
 <pb:KR1c0002_SBCK_016-1a>¶
 毛詩卷第十六¶
 文王之什詁訓&KR0019;第二十三¶
@@ -416,4 +420,3 @@
 　　　　文王有聲八章章五句¶
 文王之什十篇六十六章四百一十四句¶
 毛詩卷第十六¶
-

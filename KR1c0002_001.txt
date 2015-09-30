@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-10 22:47:14.998375
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0020-001毛詩-卷第一.
 <pb:KR1c0002_SBCK_001-1a>¶
 毛詩卷第一¶
 　　唐國子愽士兼太子中允贈齊州刺史¶
@@ -460,4 +464,3 @@
 　　　　騶虞二章章三句¶
 　召南之國十四篇四十章百七十七句¶
 毛詩卷第一¶
-

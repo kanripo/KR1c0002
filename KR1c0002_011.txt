@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 10
+#+DATE: 2015-09-10 22:47:15.492412
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0020-011毛詩-卷第十一.
 <pb:KR1c0002_SBCK_011-1a>¶
 毛詩卷第十一¶
 鴻鴈之什詁訓傳第十八¶
@@ -192,4 +196,3 @@
 溱(溱溱衆也旐旟所以聚衆云箋/云溱溱子孫衆多也溱測巾反)¶
 <pb:KR1c0002_SBCK_011-9b>¶
 <pb:KR1c0002_SBCK_011-9b>¶
-

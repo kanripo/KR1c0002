@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 5
+#+DATE: 2015-09-10 22:47:15.221404
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0020-006毛詩-卷第六.
 <pb:KR1c0002_SBCK_006-1a>¶
 毛詩卷第六¶
 唐蟋蟀詁訓傳第十¶
@@ -314,4 +318,3 @@
 　　　　權輿二章章五句¶
 秦國十篇二十七章百八十一句¶
 <pb:KR1c0002_SBCK_006-16a>¶
-

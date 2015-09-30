@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 13
+#+DATE: 2015-09-10 22:47:15.627651
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB01n0020-014毛詩-卷第十四.
 <pb:KR1c0002_SBCK_014-1a>¶
 毛詩卷第十四¶
 甫田之什詁訓傳第二十一¶
@@ -286,4 +290,3 @@
 　　　　　賔之&KR0004;筵五章章十四句¶
 　甫田之什十篇三十九章二百九十六句¶
 毛詩卷第十四¶
-

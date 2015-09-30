@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-10 22:47:15.088445
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0020-003毛詩-卷第三.
 <pb:KR1c0002_SBCK_003-1a>¶
 毛詩卷第三¶
 &KR0352;柏舟詁訓傳第四¶
@@ -396,4 +400,3 @@
 　　　　木&KR0050;三章章四句¶
 　　衛國十篇三十四章二百三句¶
 毛詩卷第三¶
-

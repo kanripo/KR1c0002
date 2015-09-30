@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 4
+#+DATE: 2015-09-10 22:47:15.175359
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0020-005毛詩-卷第五.
 <pb:KR1c0002_SBCK_005-1a>¶
 毛詩卷第五¶
 齊雞鳴詁訓傳第八¶
@@ -282,4 +286,3 @@
 　　　　碩䑕三章章八句¶
 魏國七篇十八章百二十八句¶
 毛詩卷第五¶
-

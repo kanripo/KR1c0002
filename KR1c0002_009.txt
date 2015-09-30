@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 8
+#+DATE: 2015-09-10 22:47:15.411636
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0020-009毛詩-卷第九.
 <pb:KR1c0002_SBCK_009-1a>¶
 毛詩卷第九¶
 鹿鳴之什詁訓傳第十六¶
@@ -285,4 +289,3 @@
 (詩雖云而義猶在也毛氏訓傳各引序冠其篇/首故序存而詩亡縣音玄編必先反見賢遍反)¶
 鹿鳴之什十篇五十五章三百一十五句¶
 毛詩卷第九¶
-

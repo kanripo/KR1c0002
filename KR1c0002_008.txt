@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 7
+#+DATE: 2015-09-10 22:47:15.371102
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0020-008毛詩-卷第八.
 <pb:KR1c0002_SBCK_008-1a>¶
 毛詩卷第八¶
 &KR0206;七月詁訓傳第十五¶
@@ -222,4 +226,3 @@
 　　　狼跋二章章四句¶
 　&KR0206;國七篇二十七章二百三句¶
 毛詩卷第八¶
-

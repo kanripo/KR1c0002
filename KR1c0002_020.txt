@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 19
+#+DATE: 2015-09-10 22:47:15.903412
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB01n0020-020毛詩-卷第二十.
 <pb:KR1c0002_SBCK_020-1a>¶
 毛詩卷第二十¶
 駉詁訓傳第二十九¶
@@ -372,4 +376,3 @@
 　商頌五篇十六章一百五十四句¶
 毛詩卷第二十¶
 <pb:KR1c0002_SBCK_020-18a>¶
-

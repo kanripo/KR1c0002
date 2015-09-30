@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 6
+#+DATE: 2015-09-10 22:47:15.306350
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0020-007毛詩-卷第七.
 <pb:KR1c0002_SBCK_007-1a>¶
 毛詩卷第七¶
 陳宛丘詁訓傳第十二¶
@@ -244,4 +248,3 @@
 (勞力報反/朝直遥反)¶
 　　　　下泉四章章四句¶
 曹國四篇十五章六十八句　八〇七卷終¶
-

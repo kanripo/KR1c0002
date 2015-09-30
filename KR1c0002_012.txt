@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 11
+#+DATE: 2015-09-10 22:47:15.530286
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0020-012毛詩-卷第十二.
 <pb:KR1c0002_SBCK_012-1a>¶
 毛詩卷第十二¶
 節南山之什詁訓傳第十九¶
@@ -453,4 +457,3 @@
 　節南山之什十篇七十九章五百五十二¶
 　句¶
 毛詩卷第十二¶
-

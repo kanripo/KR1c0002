@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩
-#+DATE: 2015-09-23 09:36:24
-#+PROPERTY: JUAN 14
+#+DATE: 2015-09-10 22:47:15.676094
+#+PROPERTY: ID KR1c0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 15
+#+PROPERTY: FILE SB01n0020-015毛詩-卷第十五.
 <pb:KR1c0002_SBCK_015-1a>¶
 毛詩卷第十五¶
 魚藻之什詁訓傳第二十二¶
@@ -326,4 +330,3 @@
 　魚藻之什十四篇六十二章三百二句¶
 毛詩卷第十五¶
 <pb:KR1c0002_SBCK_015-16a>¶
-
